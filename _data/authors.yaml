@@ -66,9 +66,9 @@ Barbora Marsikova:
 
 Fengjiao Ma:
   name        : "Fengjiao Ma"
-  bio         : ""
+  bio         : "image processing, correlative light and electron microscopy"
   avatar      : "/assets/images/people/ma.jpg"
-  active      : true 
+  active      : false 
   role        : "PhD Candidate"
 
 Robert Kretschmer:
